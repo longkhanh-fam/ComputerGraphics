@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\Admin\source\repos\Lab3_CG\Lab3_CG\Shape\Polygon.h(15,22): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Admin\source\repos\Lab3_CG\Lab3_CG\Moderator\ShapeStorage.h(148): warning C4715: 'ShapeStorage::createShapeType': not all control paths return a value
+  All 632 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab3_CG.vcxproj -> C:\Users\Admin\source\repos\Lab3_CG\Release\Lab3_CG.exe
